@@ -1,0 +1,10 @@
+{
+  "name": "Trouver Mon Objet CI",
+  "short_name": "Trouver Mon Objet CI",
+  "description": "Trouvez facilement les produits disponibles en Côte d'Ivoire.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F5F1E8",
+  "theme_color": "#F77F00",
+  "orientation": "portrait"
+}
